@@ -1,0 +1,1 @@
+RedRooster is a simple web interface for etherwake.  You can wake a computer on demand or schedule a wake up.
